@@ -5,7 +5,7 @@ Proyectos de programación de algoritmos en el lenguaje Javascript para la certi
 Los proyectos que se encuentran en este repositorio son:
 
 * **Palindrome Checker**: Comprobador de palíndromos	
-* **Roman Numeral Converter**: Conversor de numeros romanos
+* **Roman Numeral Converter**: Conversor de números romanos
 * **Caesars Cipher**: Codigo Caesar (Algoritmo de cifrado)
 * **Telephone Number Validator**: Validador de números de teléfono
 * **Cash Register**: Caja registradora
